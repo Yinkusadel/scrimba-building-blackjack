@@ -26,3 +26,8 @@ button {
     border: none;
     border-radius: 2px;
 }
+
+button:hover {
+    border: 2px solid rgb(55, 55, 240);
+    color: white;
+}
