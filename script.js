@@ -1,6 +1,5 @@
 let firstCard = 10
 let secondCard = 4
-// 1. Create a new array - cards - that contains firstCard and secondCard
 let cards = [firstCard, secondCard]
 let sum = firstCard + secondCard
 let hasBlackJack = false
@@ -15,7 +14,6 @@ function startGame() {
 }
 
 function renderGame() {
-    // 2. Refer to the cards array when rendering out the cards
     cardsEl.textContent = "Cards: " + cards[0] + " " + cards[1]
     sumEl.textContent = "Sum: " + sum
     if (sum <= 20) {
@@ -34,5 +32,8 @@ function renderGame() {
 function newCard() {
     let card = 6
     sum += card
+    // Push the card to the cards array
+    cards.push(card)
+    console.log(cards)
     renderGame()
 }
