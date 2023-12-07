@@ -1,27 +1,25 @@
-# Project Name
+# Scrimba Building Blackjack
 
-> One paragraph statement about the project.
+> A blackjack game.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML
+- CSS
+- javaScript
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](scrimba-building-blackjack.netlify.app)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/js-template.git
+git clone git@github.com:Yinkusadel/scrimba-building-blackjack.git
 
 ```
 
@@ -89,9 +87,9 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@yinkusadel](https://github.com/yinkusadel)
+- Twitter: [@HashiraAdel](https://twitter.com/HashiraAdel)
+- Linkedin: [@adeleyeolayinka](https://www.linkedin.com/in/adeleye-olayinka/)
 
 ## 🤝 Contributing
 
@@ -105,9 +103,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- Scrimba: [@building-blackjack](https://scrimba.com/playlist/p3py7U7)
 
 ## 📝 License
 
